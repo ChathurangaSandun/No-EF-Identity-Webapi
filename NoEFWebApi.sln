@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoEFWebApi", "NoEFWebApi\NoEFWebApi.csproj", "{142848DB-3B47-4F3E-AB80-FA7B0EE47956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.Core", "Identity.Core\Identity.Core.csproj", "{43FF1E55-C6B2-451F-B6A0-4DA2B5072F9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{142848DB-3B47-4F3E-AB80-FA7B0EE47956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{142848DB-3B47-4F3E-AB80-FA7B0EE47956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{142848DB-3B47-4F3E-AB80-FA7B0EE47956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{142848DB-3B47-4F3E-AB80-FA7B0EE47956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43FF1E55-C6B2-451F-B6A0-4DA2B5072F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FF1E55-C6B2-451F-B6A0-4DA2B5072F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43FF1E55-C6B2-451F-B6A0-4DA2B5072F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43FF1E55-C6B2-451F-B6A0-4DA2B5072F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48F718FD-73E1-44CE-A6C3-D19C0219B292}
+	EndGlobalSection
+EndGlobal
